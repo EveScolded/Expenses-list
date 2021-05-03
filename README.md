@@ -1,3 +1,5 @@
+![cover](./cover.png)
+
 # Expenses-list
 
 React app using basic core features and building blocks:
